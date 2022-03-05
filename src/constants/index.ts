@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '../sdk'
 
-export const ROUTER_ADDRESS = '0xd99d1c33f9fc3444f8101754abc46c52416550d1'
+export const ROUTER_ADDRESS = '0x9ac64cc6e4415144c455bd8e4837fea55603e5c3'
 
 // a list of tokens by chain
 type ChainTokenList = {
